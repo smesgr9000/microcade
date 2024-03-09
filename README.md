@@ -1,6 +1,6 @@
 # Microcade
 
-MicroSD-Card adapter Blaze cartridges.
+MicroSD-Card adapter for Blaze cartridges.
 
 ![first version of assembled Microcade](<./microcadeV1.jpg>)
 
