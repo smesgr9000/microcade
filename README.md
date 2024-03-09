@@ -6,7 +6,7 @@ MicroSD-Card adapter for Blaze cartridges.
 
 ## Order PCB
 To order the latest version either use KiCad or use release zip from GitHub.
-To generate the Gerber files yourself, open _monster7800.kicad_pcb_ in KiCad. Use _Fabrication Output_ > _Gerber_ and select an output folder and agree with _Plot_ with the default configruation. Also use _Fabrication Output_ > _Drill Files_ than select the same output folder and agree with _Generate Drill File_.
+To generate the Gerber files yourself, open _microcade.kicad_pcb_ in KiCad. Use _Fabrication Output_ > _Gerber_ and select an output folder and agree with _Plot_ with the default configruation. Also use _Fabrication Output_ > _Drill Files_ than select the same output folder and agree with _Generate Drill File_.
 
 The ordering and manufacturing depends on your selected PCB manufacturer. **PCB-Thickness is improtant!** For [PCBWay](www.pcbway.com):
 
